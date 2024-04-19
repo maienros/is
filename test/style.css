@@ -1,0 +1,30 @@
+body {
+    background-image: url(img/caf576172c3723cd41320eaa2932bcae.jpg);
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+.main {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+header {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    align-self: center;
+    background-color: #edede9;
+}
+p {
+    display: flex;
+    justify-content: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: large;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #e3d5ca;
+}
